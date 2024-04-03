@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  min-width: 300px;
+  gap: 5%;
+}
+
+.pageChangeContainer {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  gap: 10%;
+}
+
